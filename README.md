@@ -1,4 +1,4 @@
-# PHP MCV
+# PHP MVC
 
 **Base de datos**
 
